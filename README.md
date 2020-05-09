@@ -11,6 +11,8 @@ For simple GLOW use ``glow.py``\
 For GLOW on CIFAR use ``glow_cifar.py``\
 For Class conditional GLOW on MNIST use ``glow_mnist_conditional.py``
 
+Note: To setup virtual environment for training and evaluation, use dependencies.txt. To check basic working of model, use the demos provided which carry only the necessary files required.
+
 
 To train a model
 ```sh

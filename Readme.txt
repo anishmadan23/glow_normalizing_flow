@@ -7,6 +7,7 @@ For Class conditional GLOW on MNIST use glow_mnist_conditional.py
 Demo GLOW: https://colab.research.google.com/drive/1NXTuszihrThnb6celFbW9gH7OAMOH8xb
 Demo Audio: https://colab.research.google.com/drive/16yM9Pze9T_H3QnrR-pyEYwwFPHfjP75Z
 
+To setup virtual environment for training and evaluation, use dependencies.txt. To check basic working of model, use the demos provided which carry only the necessary files required.
 
 To train a model
 
