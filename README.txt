@@ -1,5 +1,12 @@
 glow_normalizing_flow
 
+For simple GLOW use glow.py
+For GLOW on CIFAR use glow_cifar.py
+For Class conditional GLOW on MNIST use glow_mnist_conditional.py
+
+Demo GLOW: <Link1>
+Demo Audio: <Link2>
+
 
 To train a model
 
