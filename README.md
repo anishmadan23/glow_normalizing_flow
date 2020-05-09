@@ -3,12 +3,12 @@
 Glow is a type of reversible generative model, also called flow-based generative model, and is an extension of the NICE and RealNVP techniques. In this project, we try to compare between shallow and deep GLOW models by studying its impact on the generated samples.
 We also use the GLOW architecture for speech synthesis (namely Waveglow). We extend GLOW by modifying its architecture to make the generation process class-conditional. 
 
-This project is also accompanied with a demo to demonstrate the performance of this model.
+This project is also accompanied with a **demo** to demonstrate the performance of this model.
 
 ## Usage
 
-For simple GLOW use ``glow.py``
-For GLOW on CIFAR use ``glow_cifar.py``
+For simple GLOW use ``glow.py``\
+For GLOW on CIFAR use ``glow_cifar.py``\
 For Class conditional GLOW on MNIST use ``glow_mnist_conditional.py``
 
 
@@ -57,7 +57,7 @@ python glow.py --visualize \
                --vis_img=[path to image to manipulate (note: size needs to match dataset); if blank uses example from test dataset]
 ```
 
-TO visualize manifold (add relevant image paths in glow.py)
+To visualize manifold (add relevant image paths in glow.py)
 ```sh
 python glow.py --manifold_viz \
                --restore_file=[path to .pt checkpoint] \
