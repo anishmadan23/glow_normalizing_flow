@@ -4,8 +4,8 @@ For simple GLOW use glow.py
 For GLOW on CIFAR use glow_cifar.py
 For Class conditional GLOW on MNIST use glow_mnist_conditional.py
 
-Demo GLOW: <Link1>
-Demo Audio: <Link2>
+Demo GLOW: https://colab.research.google.com/drive/1NXTuszihrThnb6celFbW9gH7OAMOH8xb
+Demo Audio: https://colab.research.google.com/drive/16yM9Pze9T_H3QnrR-pyEYwwFPHfjP75Z
 
 
 To train a model
