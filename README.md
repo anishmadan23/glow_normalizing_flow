@@ -87,4 +87,4 @@ We have created Python Notebooks which could be directly run in Colab on any bro
 Demo GLOW: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_celeb.ipynb)
 
-Demo Audio: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_tts.ipynb)
+Demo Text-To-Speech using WaveGlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_tts.ipynb)
