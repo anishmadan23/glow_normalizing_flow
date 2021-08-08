@@ -88,3 +88,6 @@ Demo GLOW: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_celeb.ipynb)
 
 Demo Text-To-Speech using WaveGlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_tts.ipynb)
+
+## Credits
+[Reference Implementation](https://github.com/kamenbliznashki/normalizing_flows)
