@@ -5,6 +5,14 @@ We also use the GLOW architecture for speech synthesis (namely Waveglow). We ext
 
 This project is also accompanied with a [demo](#demo) to demonstrate the performance of this model.
 
+# Demo
+We have created Python Notebooks which could be directly run in Colab on any browser easily without the overhead of external installations and setup.
+
+Demo GLOW: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_celeb.ipynb)
+
+Demo Text-To-Speech using WaveGlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_tts.ipynb)
+
 # Usage
 
 For simple GLOW use ``glow.py``\
@@ -80,14 +88,6 @@ python glow.py --interpolate_report \
                --x1=Target Img Path \
                --x2=Source Img Path
 ```
-
-# Demo
-We have created Python Notebooks which could be directly run in Colab on any browser easily without the overhead of external installations and setup.
-
-Demo GLOW: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_celeb.ipynb)
-
-Demo Text-To-Speech using WaveGlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anishmadan23/glow_normalizing_flow/blob/master/Demo/demo_tts.ipynb)
 
 ## Credits
 [Reference Implementation](https://github.com/kamenbliznashki/normalizing_flows)
